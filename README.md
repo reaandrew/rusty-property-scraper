@@ -1,6 +1,6 @@
 # A Property Scraper Tool Written in Rust
 
-## For learning and demonstrattion purposes...probably.
+## For fun, learning and demonstration purposes.
 
 - Using an interface
 - Chose the reqwest library for HTTP Client
